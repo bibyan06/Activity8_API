@@ -1,0 +1,21 @@
+2024-05-28 17:20:09 - SQLSTATE[42S02]: Base table or view not found: 1146 Table 'hr.department' doesn't exist
+2024-05-28 18:31:59 - SQLSTATE[42S02]: Base table or view not found: 1146 Table 'hr.department' doesn't exist
+2024-05-28 18:37:07 - SQLSTATE[HY000] [1045] Access denied for user 'your_username'@'localhost' (using password: YES)
+2024-05-28 18:37:13 - SQLSTATE[HY000] [1045] Access denied for user 'your_username'@'localhost' (using password: YES)
+2024-05-28 18:37:41 - SQLSTATE[42S02]: Base table or view not found: 1146 Table 'hr.department' doesn't exist
+2024-05-28 18:38:11 - SQLSTATE[42S02]: Base table or view not found: 1146 Table 'hr.department' doesn't exist
+2024-05-28 18:41:41 - SQLSTATE[42S22]: Column not found: 1054 Unknown column 'dname' in 'where clause'
+2024-05-28 18:41:41 - SQLSTATE[42S22]: Column not found: 1054 Unknown column 'dname' in 'where clause'
+2024-05-28 18:42:37 - SQLSTATE[42S22]: Column not found: 1054 Unknown column 'dname' in 'where clause'
+2024-05-28 18:42:37 - SQLSTATE[42S22]: Column not found: 1054 Unknown column 'dname' in 'where clause'
+2024-05-29 08:53:16 - SQLSTATE[42S02]: Base table or view not found: 1146 Table 'hr.department' doesn't exist
+2024-05-29 08:56:26 - SQLSTATE[42S22]: Column not found: 1054 Unknown column 'dname' in 'where clause'
+2024-05-29 08:56:26 - SQLSTATE[42S22]: Column not found: 1054 Unknown column 'dname' in 'where clause'
+2024-05-29 09:07:30 - SQLSTATE[42S22]: Column not found: 1054 Unknown column 'dname' in 'where clause'
+2024-05-29 09:07:30 - SQLSTATE[42S22]: Column not found: 1054 Unknown column 'dname' in 'where clause'
+2024-05-29 09:08:18 - SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'
+2024-05-29 09:09:28 - SQLSTATE[42S22]: Column not found: 1054 Unknown column 'dname' in 'where clause'
+2024-05-29 09:09:28 - SQLSTATE[42S22]: Column not found: 1054 Unknown column 'dname' in 'where clause'
+2024-05-29 09:10:12 - SQLSTATE[42S22]: Column not found: 1054 Unknown column 'dname' in 'where clause'
+2024-05-29 09:10:12 - SQLSTATE[42S22]: Column not found: 1054 Unknown column 'dname' in 'where clause'
+2024-05-29 09:10:20 - SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'
